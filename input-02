@@ -1,0 +1,11 @@
+
+size 640 480
+camera 0 0 50 0 0 0 0 1 0 45
+
+emission 0 0.2 0.2 
+pushTransform
+scale 10 7 20 
+sphere 0 0 0 1
+popTransform
+
+

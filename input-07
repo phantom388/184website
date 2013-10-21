@@ -1,0 +1,18 @@
+size 500 500
+camera 0 0 5 0 0 0 0 1 0 45
+
+
+ambient 1 0 1
+
+maxverts 4 
+
+vertex -1 -1 0 
+vertex +1 -1 0
+vertex +1 +1 0
+vertex -1 +1 0
+
+pushTransform
+rotate 0 0 1 45
+tri 0 1 2
+tri 0 2 3
+popTransform

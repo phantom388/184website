@@ -1,0 +1,12 @@
+
+size 640 480
+camera 0 0 50 0 0 0 0 1 0 45
+
+
+directional 1 1 1 .5 .5 .5 
+diffuse 1 0.3 0.7 
+specular 0 .5 .4
+shininess 20
+
+sphere -5 0 0 15
+sphere 5 0 20 8

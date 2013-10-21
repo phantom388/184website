@@ -1,0 +1,12 @@
+size 640 480
+camera 0 -75 40 0 0 0 0 1 0 45
+
+
+ 
+point 85 -50 150 1 1 1
+diffuse 1 1 1 
+
+
+sphere 0 -10 0 15
+
+sphere 10 -10 20 8
